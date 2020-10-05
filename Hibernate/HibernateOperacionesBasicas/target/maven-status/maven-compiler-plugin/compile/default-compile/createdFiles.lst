@@ -1,0 +1,4 @@
+dao/PersonaDao.class
+domain/Persona.class
+test/OperacionesHbernateJPA.class
+test/HolaMundoHibernate.class

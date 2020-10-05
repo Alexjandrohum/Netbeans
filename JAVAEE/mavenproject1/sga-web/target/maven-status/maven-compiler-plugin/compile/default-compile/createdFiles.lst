@@ -1,0 +1,5 @@
+mx/com/sga/service/PersonaService.class
+mx/com/sga/service/PersonaServiceImpl.class
+mx/com/sga/servlet/PersonaServlet.class
+mx/com/sga/service/PersonaServiceRemote.class
+mx/com/sga/domain/Persoma.class

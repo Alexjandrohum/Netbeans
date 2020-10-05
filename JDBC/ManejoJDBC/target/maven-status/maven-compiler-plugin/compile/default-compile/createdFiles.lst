@@ -1,0 +1,5 @@
+datos/PersonaDAO.class
+datos/Conexion.class
+test/ManejoPersonas.class
+domain/PersonaDTO.class
+datos/PersonaDAOJDBC.class

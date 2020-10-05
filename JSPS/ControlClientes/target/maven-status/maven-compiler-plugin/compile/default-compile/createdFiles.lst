@@ -1,0 +1,8 @@
+datos/TiendaDAO.class
+dominio/TiendaDTO.class
+datos/Conexion.class
+contract/CrudContract.class
+datos/ClienteDAO.class
+web/TiendaControlador.class
+web/ServerControlador.class
+dominio/ClienteDTO.class

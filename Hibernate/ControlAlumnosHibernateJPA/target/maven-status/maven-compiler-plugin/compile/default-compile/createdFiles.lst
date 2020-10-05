@@ -1,0 +1,7 @@
+test/Test.class
+domain/Curso.class
+domain/Domicilio.class
+domain/Contacto.class
+dao/DomicilioDao.class
+domain/Alumno.class
+domain/Asignacion.class

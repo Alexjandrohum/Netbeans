@@ -1,0 +1,9 @@
+dao/PeliculasDao.class
+excepciones/EscrituraDatosEx.class
+view/LaboratorioFinal.class
+excepciones/LecturaDatosEx.class
+dto/PeliculaDTO.class
+contract/AccesoContract.class
+presenter/PeliculasPresenter.class
+excepciones/AccesoDatosEx.class
+contract/CatalogoPeliculasContract.class

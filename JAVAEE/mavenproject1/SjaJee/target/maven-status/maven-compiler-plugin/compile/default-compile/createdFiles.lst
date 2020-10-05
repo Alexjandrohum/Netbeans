@@ -1,0 +1,6 @@
+mx/com/sga/service/PersonaServiceImpl.class
+mx/com/sga/cliente/PersonaService.class
+mx/com/sga/domain/Persona.class
+mx/com/sga/service/PersonaServiceRemote.class
+mx/com/sga/domain/Usuario.class
+mx/com/sga/cliente/PruebaManejoTransacciones.class

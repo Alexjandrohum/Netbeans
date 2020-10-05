@@ -1,0 +1,13 @@
+dao/GenericDao.class
+test/Test.class
+dao/CursoDao.class
+dao/DomicilioDao.class
+ciclovida/Estado1Persistido.class
+dao/ContactoDao.class
+dao/AsignacionDao.class
+domain/Curso.class
+domain/Domicilio.class
+domain/Contacto.class
+domain/Alumno.class
+dao/AlumnoDao.class
+domain/Asignacion.class

@@ -1,0 +1,4 @@
+web/ServletControlador.class
+dao/PersonaDao.class
+servicio/ServicioPersonas.class
+domain/Persona.class
